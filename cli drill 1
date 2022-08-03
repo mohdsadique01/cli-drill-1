@@ -1,0 +1,82 @@
+question 1
+makeing new directory
+mkdir hello
+go into the hello directory
+cd hello/
+making 2 dirictory in hello directory
+mkdir five
+mkdir one
+go to the five directory
+cd five/
+makinf new directory in five 
+mkdir six
+go to the six directory
+cd six/
+makin one file and new directory
+touch c.txt
+mkdir seven
+go to the seven directory
+cwe make one file
+touch error.log
+go to the home
+cd ~
+go to the hello directory 
+cd hello/
+go to the one directory
+cd one/
+making two file and new directory
+touvh a.txt
+touch b.txt
+mkdir two
+go to two directory
+cd two/
+making one file and new directory
+touch d.txt
+mkdir three
+go to the three directory
+cd three/
+making new file and directory
+touch e.txt
+mkdir four
+go to the four directory
+cd four/
+making one file
+touch access.log
+
+
+
+question 2
+
+
+find . -type f -iname \*.log-delete
+
+
+question 3
+
+go to the a.txt file
+cat>>  a.txt
+and then write
+Unix is a family of multitasking, multiuser computer operating /n
+systems that derive from the original AT&T Unix, development /n
+starting in the 1970s at the Bell Labs research center by Ken /n
+Thompson, Dennis Ritchie, and others./n
+
+to save this and come out by pressing key
+CNTRL+C
+
+
+question 4
+go to the hello directory
+mv -R five
+
+ question 5
+ makin new directory in hello
+ mkdir uno
+ and moving one directory in uno
+ mv one uno
+ 
+ 
+ question 6
+ cp a.txt two
+ and then deleting file a.txt file from one directory
+ mvdir a.txt
